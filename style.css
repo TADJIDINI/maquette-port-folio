@@ -55,12 +55,7 @@ i{
     padding: 1vh 1.5vw 1vh 1.5vw;
 }
 
-.cards{
-    display:flex;
-    width: 60vw;
-    margin: 5vh 19vw 5vh 19vw;
-    text-align: center;
-}
+
 #tl1{
     display: flex;
     justify-content: center;
