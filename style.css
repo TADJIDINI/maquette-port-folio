@@ -66,8 +66,9 @@ i{
 }
 
 .cards p{
-    text-align: justify;
-    padding: 2vh 2vw 0 2vw;
+    width: 60vw;
+    margin: 5vh 19vw 5vh 19vw;
+
 }
 h3{
     text-align: center;
@@ -80,4 +81,9 @@ h3{
 }
 .logo1{
     display: flex;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
 }
